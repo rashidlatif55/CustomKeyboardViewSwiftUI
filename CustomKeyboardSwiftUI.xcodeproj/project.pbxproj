@@ -16,6 +16,7 @@
 		98F32A332C576BEB007444C6 /* CustomKeyboardSwiftUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 98F32A322C576BEB007444C6 /* CustomKeyboardSwiftUITests.swift */; };
 		98F32A3D2C576BEB007444C6 /* CustomKeyboardSwiftUIUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 98F32A3C2C576BEB007444C6 /* CustomKeyboardSwiftUIUITests.swift */; };
 		98F32A3F2C576BEB007444C6 /* CustomKeyboardSwiftUIUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 98F32A3E2C576BEB007444C6 /* CustomKeyboardSwiftUIUITestsLaunchTests.swift */; };
+		98F32A4C2C57717E007444C6 /* CustomKeyboardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 98F32A4B2C57717E007444C6 /* CustomKeyboardView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,6 +49,7 @@
 		98F32A382C576BEB007444C6 /* CustomKeyboardSwiftUIUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CustomKeyboardSwiftUIUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		98F32A3C2C576BEB007444C6 /* CustomKeyboardSwiftUIUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomKeyboardSwiftUIUITests.swift; sourceTree = "<group>"; };
 		98F32A3E2C576BEB007444C6 /* CustomKeyboardSwiftUIUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomKeyboardSwiftUIUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		98F32A4B2C57717E007444C6 /* CustomKeyboardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomKeyboardView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 				98F32A252C576BEB007444C6 /* Persistence.swift */,
 				98F32A272C576BEB007444C6 /* CustomKeyboardSwiftUI.xcdatamodeld */,
 				98F32A222C576BEB007444C6 /* Preview Content */,
+				98F32A4B2C57717E007444C6 /* CustomKeyboardView.swift */,
 			);
 			path = CustomKeyboardSwiftUI;
 			sourceTree = "<group>";
@@ -267,6 +270,7 @@
 				98F32A292C576BEB007444C6 /* CustomKeyboardSwiftUI.xcdatamodeld in Sources */,
 				98F32A1F2C576BE9007444C6 /* ContentView.swift in Sources */,
 				98F32A1D2C576BE9007444C6 /* CustomKeyboardSwiftUIApp.swift in Sources */,
+				98F32A4C2C57717E007444C6 /* CustomKeyboardView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
